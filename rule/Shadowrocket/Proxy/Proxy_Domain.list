@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-09 02:10:33
-# DOMAIN: 15
-# DOMAIN-KEYWORD: 29
-# DOMAIN-SUFFIX: 5910
+# UPDATED: 2024-07-22 02:10:28
+# DOMAIN: 12
+# DOMAIN-KEYWORD: 28
+# DOMAIN-SUFFIX: 5909
 # IP-CIDR: 100
 # USER-AGENT: 9
-# TOTAL: 6063
+# TOTAL: 6058
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -141,6 +141,7 @@
 .9news.com.au
 .9to5mac.com
 .a-normal-day.com
+.a5.com.ru
 .aamacau.com
 .abc.com
 .abc.net.au
@@ -626,6 +627,7 @@
 .blubrry.com
 .blueangellive.com
 .bmfinn.com
+.bnbstatic.com
 .bnews.co
 .bnext.com.tw
 .bnn.co
@@ -825,6 +827,7 @@
 .cdp1989.org
 .cdp1998.org
 .cdp2006.org
+.cdpa.url.tw
 .cdpeu.org
 .cdpusa.org
 .cdpweb.org
@@ -855,7 +858,7 @@
 .channelnewsasia.com
 .chaoex.com
 .chapm25.com
-.chat.lmsys.org
+.chat.openai.com
 .chatnook.com
 .chaturbate.com
 .checkgfw.com
@@ -867,7 +870,9 @@
 .cherrysave.com
 .chhongbi.org
 .chicagoncmtv.com
+.china-mmm.jp.net
 .china-mmm.net
+.china-mmm.sa.com
 .china-review.com.ua
 .china-week.com
 .china101.com
@@ -1015,7 +1020,6 @@
 .cmule.org
 .cmx.im
 .cn-proxy.com
-.cn.com
 .cn6.eu
 .cna.com.tw
 .cnabc.com
@@ -1050,7 +1054,6 @@
 .coinut.com
 .collateralmurder.com
 .collateralmurder.org
-.com.ru
 .com.uk
 .comedycentral.com
 .comefromchina.com
@@ -1227,6 +1230,7 @@
 .democrats.org
 .demosisto.hk
 .depositphotos.com
+.derekhsu.homeip.net
 .desc.se
 .desipro.de
 .deskconnect.com
@@ -1299,6 +1303,7 @@
 .dnsrd.com
 .dnssec.net
 .docker.com
+.docker.io
 .doctorvoice.org
 .documentingreality.com
 .dogfartnetwork.com
@@ -2296,7 +2301,6 @@
 .holyspiritspeaks.org
 .home.sina.com
 .homedepot.com
-.homeip.net
 .homeperversion.com
 .homeservershow.com
 .honeynet.org
@@ -2696,7 +2700,6 @@
 .journalofdemocracy.org
 .joymiihub.com
 .jp.hao123.com
-.jp.net
 .jpopforum.net
 .jqueryui.com
 .js.revsci.net
@@ -2944,7 +2947,6 @@
 .livefilestore.com
 .liveleak.com
 .livemint.com
-.livestation.com
 .livestream.com
 .livevideo.com
 .livingonline.us
@@ -2954,7 +2956,7 @@
 .lizhizhuangbi.com
 .lkcn.net
 .llnwd.net
-.llss.me
+.lmsys.org
 .lncn.org
 .load.to
 .lobsangwangyal.com
@@ -3796,6 +3798,7 @@
 .perfect-privacy.com
 .perfectgirls.net
 .periscope.tv
+.perplexity.ai
 .persecutionblog.com
 .persiankitty.com
 .phapluan.org
@@ -4031,7 +4034,6 @@
 .qz.com
 .r0.ru
 .r18.com
-.ra.gg
 .radicalparty.org
 .radiko.jp
 .radio-canada.ca
@@ -4192,7 +4194,6 @@
 .s1s1s1.com
 .s4miniarchive.com
 .s8forum.com
-.sa.com
 .sa.hao123.com
 .saboom.com
 .sacks.com
@@ -5245,7 +5246,6 @@
 .urbansurvival.com
 .urchin.com
 .url.com.tw
-.url.tw
 .urlborg.com
 .urlparser.com
 .us.to
@@ -5792,7 +5792,6 @@
 .yingsuoss.com
 .yinlei.org
 .yipub.com
-.yiyechat.com
 .yizhihongxing.com
 .yobit.net
 .yobt.com
@@ -5833,7 +5832,6 @@
 .yuanzhengtang.org
 .yulghun.com
 .yunchao.net
-.yuntipub.com
 .yuvutu.com
 .yvesgeleyn.com
 .ywpw.com
@@ -5857,6 +5855,7 @@
 .zello.com
 .zengjinyan.org
 .zenmate.com
+.zenmate.com.ru
 .zerohedge.com
 .zeronet.io
 .zeutch.com
@@ -5921,15 +5920,12 @@
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
-chat.openai.com.cdn.cloudflare.net
 cloud.oracle.com
 copilot.microsoft.com
 cvws.icloud-content.com
 developer.apple.com
 location.microsoft.com
 login.microsoftonline.com
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-openaicomproductionae4b.blob.core.windows.net
 self.events.data.microsoft.com
 testflight.apple.com
 voice.telephony.goog

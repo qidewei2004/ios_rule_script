@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-16 02:10:48
-# DOMAIN: 80
-# DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 24795
+# UPDATED: 2024-07-22 02:10:13
+# DOMAIN: 81
+# DOMAIN-KEYWORD: 36
+# DOMAIN-SUFFIX: 24834
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25029
+# TOTAL: 25068
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -75,6 +75,7 @@ public-us-pingsx.api.clonoth.com
 push-apple.com.akadns.net
 qualcomm.sc.omtrdc.net
 tesla-cdn.thron.com
+translomatic.foxfortmobile.com
 vmware.tt.omtrdc.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
@@ -836,7 +837,11 @@ self.events.data.microsoft.com
 .afriboyz.com
 .aga-expo.com
 .agag.tw
+.agedm.app
 .agedm.org
+.agedm.tv
+.agefans.com
+.agemys.org
 .agendaweek.com
 .agoogleaday.com
 .agrd.io
@@ -1831,6 +1836,8 @@ self.events.data.microsoft.com
 .assylum.com
 .asto.re
 .asus.com
+.asuscloud.com
+.asuswebstorage.com
 .atandt.com
 .atasale.com
 .atdmt2.com
@@ -3457,7 +3464,6 @@ self.events.data.microsoft.com
 .bmwworld.net
 .bmwworld.tv
 .bmwzentrum.com
-.bnbstatic.com
 .bnef.com
 .boboporn.com
 .boboporn.net
@@ -3489,6 +3495,7 @@ self.events.data.microsoft.com
 .bookclubcorner.com
 .bookclubgirl.com
 .bookfi.net
+.booking.com
 .booklive.jp
 .bookmark.xxx
 .bookmybridgestonetyre.com
@@ -4426,6 +4433,7 @@ self.events.data.microsoft.com
 .colombianas.webcam
 .colorfulstage.com
 .colorprotechnology.com
+.com.ru
 .comdotgame.com
 .come29.xyz
 .comeav.com
@@ -4499,6 +4507,11 @@ self.events.data.microsoft.com
 .cordcloud.org
 .coreduo.com
 .coreextreme.com
+.corel.com
+.corel.net
+.coreldraw.app
+.coreldraw.com
+.corelstore.com
 .coreml.net
 .coreoptics.net
 .corepublishingsolutions.com
@@ -4631,6 +4644,7 @@ self.events.data.microsoft.com
 .cumswappingsis.com
 .cumteenporn.com
 .cunhua.pics
+.cuniq.com
 .cuntempire.com
 .cuntwars.com
 .cup.com.hk
@@ -5207,11 +5221,11 @@ self.events.data.microsoft.com
 .dobbyporn.com
 .dobendan.de
 .doceapower.com
-.docker.io
 .dockerizer.com
 .docleradn.com
 .doclercdn.com
 .docs.com
+.docs.new
 .docs.rs
 .doctor-videos.com
 .documentforce.com
@@ -6139,6 +6153,7 @@ self.events.data.microsoft.com
 .faapy.com
 .faasbook.com
 .fabhairypussy.com
+.fabricmc.net
 .fabuye.top
 .fabuyemian.com
 .facbebook.com
@@ -6448,12 +6463,14 @@ self.events.data.microsoft.com
 .fapality.com
 .fapcat.com
 .fapdude.com
+.fapello.com
 .faperoni.com
 .fapforfun.net
 .faphdporn.com
 .faphouse.com
 .fapmovz.com
 .fapnado.com
+.fapomania.com
 .fapopedia.net
 .fappcelebs.com
 .fappeningbook.com
@@ -7561,8 +7578,10 @@ self.events.data.microsoft.com
 .gogo-load.com
 .gogoanime.vc
 .gogoanime.wiki
+.gogoanime3.co
 .gogocdn.net
 .gogole.com
+.gogotaku.info
 .gohentai.net
 .golang.com
 .golang.net
@@ -8387,6 +8406,7 @@ self.events.data.microsoft.com
 .homedepot-static.com
 .homefuckingmovies.com
 .homegrownfreaks.net
+.homeip.net
 .homemade-porn-video.com
 .homemadeamateur.com
 .homemadeanalporn.com
@@ -8403,6 +8423,7 @@ self.events.data.microsoft.com
 .homestylerapp.com
 .homestylernews.com
 .hometrack.com.au
+.hominis.media
 .homo.xxx
 .honawalaan.com
 .honestpornreviews.com
@@ -9944,6 +9965,7 @@ self.events.data.microsoft.com
 .joylovedolls.com
 .joyourself.com
 .joysporn.com
+.jp.net
 .jpav.us
 .jpavcom.com
 .jpbabe.com
@@ -9957,6 +9979,8 @@ self.events.data.microsoft.com
 .jquerymobile.com
 .jr24h.com
 .js.org
+.jsati.com
+.jsatmobile.com
 .jsbridgestone.com
 .jsdelivr.com
 .jstage.jst.go.jp
@@ -10284,6 +10308,7 @@ self.events.data.microsoft.com
 .leaguesharp.info
 .leaguoflegends.com
 .leakedmeat.com
+.leakedzone.com
 .leaksmodels.com
 .leakxxx.com
 .leannecrowvideos.com
@@ -10350,6 +10375,7 @@ self.events.data.microsoft.com
 .libgen.rs
 .libgen.st
 .liboggirls.net
+.library.lol
 .librarylovefest.com
 .libraryofthumbs.com
 .librewolf.net
@@ -10435,6 +10461,7 @@ self.events.data.microsoft.com
 .livesex.com
 .livesexasian.com
 .livesketchshare.com
+.livestation.com
 .livexxx.me
 .livingyourambition.com
 .livrariart.com.br
@@ -10449,6 +10476,7 @@ self.events.data.microsoft.com
 .llnw.com
 .llnw.net
 .llnwi.net
+.llss.me
 .llwht88.xyz
 .lmm167.shop
 .lmmbtc.com
@@ -10908,6 +10936,7 @@ self.events.data.microsoft.com
 .maturewifeporn.cc
 .maturewomenanal.com
 .maturexxxvideos.cc
+.max.com
 .maxgo.com
 .maxillofacial-cadcam.com
 .maximumerotica.com
@@ -12559,6 +12588,7 @@ self.events.data.microsoft.com
 .nudistvoyeurbeach.com
 .nudity911.com
 .nudography.com
+.nudostar.tv
 .nuespournous.com
 .nuget.org
 .nugettest.org
@@ -13259,7 +13289,6 @@ self.events.data.microsoft.com
 .perfectshemales.com
 .perfecttitspics.com
 .perl.org
-.perplexity.ai
 .persagg.com
 .persianepochtimes.com
 .person.com
@@ -13954,6 +13983,7 @@ self.events.data.microsoft.com
 .printersetupsupport.com
 .printspots.com
 .printspots.net
+.prismlauncher.org
 .prismlive.com
 .privacysandbox.com
 .privacysimplified.com
@@ -14159,6 +14189,7 @@ self.events.data.microsoft.com
 .quicktime.net
 .quicktime.tv
 .quiksee.com
+.quiltmc.org
 .quip-cdn.com
 .quip.com
 .quipelements.com
@@ -14183,6 +14214,7 @@ self.events.data.microsoft.com
 .r18lu-avi.shop
 .r18lu.com
 .r34porn.net
+.ra.gg
 .rabbitscams.com
 .rabbitscams.sex
 .rabbitsreviews.com
@@ -14340,8 +14372,12 @@ self.events.data.microsoft.com
 .rectovaginalexam.com
 .redamateurtube.com
 .reddit.app.link
+.redditblog.com
 .reddithelp.com
+.redditinc.com
 .redditmail.com
+.redditspace.com
+.redditstatus.com
 .redfaptube.com
 .redgifs.com
 .redhat.org
@@ -14534,6 +14570,7 @@ self.events.data.microsoft.com
 .s81c.com
 .s8ds5gfm.xyz
 .sa-saopaulo.myqcloud.com
+.sa.com
 .saasexch.com
 .saasexch.io
 .sabuibo.net
@@ -14975,6 +15012,7 @@ self.events.data.microsoft.com
 .sharkyporn.com
 .sharmota.com
 .shdd.ink
+.sheets.new
 .sheflix.com
 .shegg.com
 .shegods.com
@@ -15169,6 +15207,8 @@ self.events.data.microsoft.com
 .skype.net
 .skypeassets.com
 .skypeassets.net
+.skyperfectjsat.space
+.skyperfectv.co.jp
 .skyporn.online
 .skysports.com
 .skysports.fr
@@ -15187,6 +15227,7 @@ self.events.data.microsoft.com
 .slashdot.org
 .sldolls.com
 .sleazyneasy.com
+.slides.new
 .slideshare.com
 .slidesharecdn.com
 .sling.com
@@ -15408,6 +15449,7 @@ self.events.data.microsoft.com
 .spankmonster.com
 .spankred3d.com
 .sparknotes.com
+.spcc-sp.com
 .spearhead.kr
 .specialtyheadphones.com
 .spectraltube.com
@@ -15454,6 +15496,7 @@ self.events.data.microsoft.com
 .spring13.top
 .springernature.com
 .sprinklesapp.com
+.sptvbroadcast.com
 .spyjinx.com
 .sqlite.org
 .sqlserveronlinux.com
@@ -16660,6 +16703,7 @@ self.events.data.microsoft.com
 .urbanairship.com
 .urduvoa.com
 .uriminzokkiri.com
+.url.tw
 .urlgalleries.net
 .urukawa.com
 .usa-beatsbydreheadphonesonsale.net
@@ -17620,6 +17664,7 @@ self.events.data.microsoft.com
 .whatboyswant.com
 .whatisairwatch.com
 .whatisworkspaceone.com
+.whats.new
 .whatsapp-plus.info
 .whatsapp-plus.me
 .whatsapp-plus.net
@@ -18130,6 +18175,7 @@ self.events.data.microsoft.com
 .xsz-av.com
 .xtapes.to
 .xtegvk.xyz
+.xtracloud.net
 .xtubebdsm.com
 .xtubezoo.com
 .xu97.vip
@@ -18538,6 +18584,7 @@ self.events.data.microsoft.com
 .yinshuiger.info
 .yinya.shop
 .yiqiedoushiganggangkaishi.org
+.yiyechat.com
 .yjcontentdelivery.com
 .ymail.com
 .ymhsf.top
@@ -18841,6 +18888,7 @@ self.events.data.microsoft.com
 .yunlaopo.cc
 .yunlaopo.com
 .yunlaopo.net
+.yuntipub.com
 .yusercontent.com
 .yusjb.com
 .ywbclx.top
@@ -19597,6 +19645,7 @@ self.events.data.microsoft.com
 .blubrry.com
 .blueangellive.com
 .bmfinn.com
+.bnbstatic.com
 .bnews.co
 .bnext.com.tw
 .bnn.co
@@ -19826,7 +19875,6 @@ self.events.data.microsoft.com
 .channelnewsasia.com
 .chaoex.com
 .chapm25.com
-.chat.lmsys.org
 .chatnook.com
 .chaturbate.com
 .checkgfw.com
@@ -19986,7 +20034,6 @@ self.events.data.microsoft.com
 .cmule.org
 .cmx.im
 .cn-proxy.com
-.cn.com
 .cn6.eu
 .cna.com.tw
 .cnabc.com
@@ -20021,7 +20068,6 @@ self.events.data.microsoft.com
 .coinut.com
 .collateralmurder.com
 .collateralmurder.org
-.com.ru
 .com.uk
 .comedycentral.com
 .comefromchina.com
@@ -20270,6 +20316,7 @@ self.events.data.microsoft.com
 .dnsrd.com
 .dnssec.net
 .docker.com
+.docker.io
 .doctorvoice.org
 .documentingreality.com
 .dogfartnetwork.com
@@ -21266,7 +21313,6 @@ self.events.data.microsoft.com
 .holyspiritspeaks.org
 .home.sina.com
 .homedepot.com
-.homeip.net
 .homeperversion.com
 .homeservershow.com
 .honeynet.org
@@ -21666,7 +21712,6 @@ self.events.data.microsoft.com
 .journalofdemocracy.org
 .joymiihub.com
 .jp.hao123.com
-.jp.net
 .jpopforum.net
 .jqueryui.com
 .js.revsci.net
@@ -21914,7 +21959,6 @@ self.events.data.microsoft.com
 .livefilestore.com
 .liveleak.com
 .livemint.com
-.livestation.com
 .livestream.com
 .livevideo.com
 .livingonline.us
@@ -21924,7 +21968,7 @@ self.events.data.microsoft.com
 .lizhizhuangbi.com
 .lkcn.net
 .llnwd.net
-.llss.me
+.lmsys.org
 .lncn.org
 .load.to
 .lobsangwangyal.com
@@ -22766,6 +22810,7 @@ self.events.data.microsoft.com
 .perfect-privacy.com
 .perfectgirls.net
 .periscope.tv
+.perplexity.ai
 .persecutionblog.com
 .persiankitty.com
 .phapluan.org
@@ -23000,7 +23045,6 @@ self.events.data.microsoft.com
 .qz.com
 .r0.ru
 .r18.com
-.ra.gg
 .radicalparty.org
 .radiko.jp
 .radio-canada.ca
@@ -23161,7 +23205,6 @@ self.events.data.microsoft.com
 .s1s1s1.com
 .s4miniarchive.com
 .s8forum.com
-.sa.com
 .sa.hao123.com
 .saboom.com
 .sacks.com
@@ -24214,7 +24257,6 @@ self.events.data.microsoft.com
 .urbansurvival.com
 .urchin.com
 .url.com.tw
-.url.tw
 .urlborg.com
 .urlparser.com
 .us.to
@@ -24758,7 +24800,6 @@ self.events.data.microsoft.com
 .yingsuoss.com
 .yinlei.org
 .yipub.com
-.yiyechat.com
 .yizhihongxing.com
 .yobit.net
 .yobt.com
@@ -24799,7 +24840,6 @@ self.events.data.microsoft.com
 .yuanzhengtang.org
 .yulghun.com
 .yunchao.net
-.yuntipub.com
 .yuvutu.com
 .yvesgeleyn.com
 .ywpw.com

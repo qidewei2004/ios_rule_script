@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-16 02:10:47
-# DOMAIN: 80
-# DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 24795
+# UPDATED: 2024-07-15 02:16:07
+# DOMAIN: 81
+# DOMAIN-KEYWORD: 36
+# DOMAIN-SUFFIX: 24834
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 25075
+# TOTAL: 25114
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -943,7 +943,11 @@
 .afriboyz.com
 .aga-expo.com
 .agag.tw
+.agedm.app
 .agedm.org
+.agedm.tv
+.agefans.com
+.agemys.org
 .agendaweek.com
 .agnesb.fr
 .agoogleaday.com
@@ -2140,6 +2144,8 @@
 .asto.re
 .astrill.com
 .asus.com
+.asuscloud.com
+.asuswebstorage.com
 .async.be
 .atandt.com
 .atasale.com
@@ -4036,6 +4042,7 @@
 .bookdepository.com
 .bookepub.com
 .bookfi.net
+.booking.com
 .booklive.jp
 .bookmark.xxx
 .bookmybridgestonetyre.com
@@ -4857,7 +4864,6 @@
 .charlotte-anime.jp
 .charmescorts.com
 .charticulator.com
-.chat.lmsys.org
 .chatango.com
 .chatgpt.com
 .chatgptvideo.xyz
@@ -5298,7 +5304,6 @@
 .cmule.org
 .cmx.im
 .cn-proxy.com
-.cn.com
 .cn6.eu
 .cna.com.tw
 .cnabc.com
@@ -5483,6 +5488,11 @@
 .cordcloud.org
 .coreduo.com
 .coreextreme.com
+.corel.com
+.corel.net
+.coreldraw.app
+.coreldraw.com
+.corelstore.com
 .coreml.net
 .coreoptics.net
 .corepublishingsolutions.com
@@ -5666,6 +5676,7 @@
 .cumswappingsis.com
 .cumteenporn.com
 .cunhua.pics
+.cuniq.com
 .cuntempire.com
 .cuntwars.com
 .cup.com.hk
@@ -6417,6 +6428,7 @@
 .docleradn.com
 .doclercdn.com
 .docs.com
+.docs.new
 .docs.rs
 .doctor-videos.com
 .doctorvoice.org
@@ -7609,6 +7621,7 @@
 .faasbook.com
 .fabhairypussy.com
 .fabric.io
+.fabricmc.net
 .fabuye.top
 .fabuyemian.com
 .facbebook.com
@@ -7976,12 +7989,14 @@
 .fapcat.com
 .fapdu.com
 .fapdude.com
+.fapello.com
 .faperoni.com
 .fapforfun.net
 .faphdporn.com
 .faphouse.com
 .fapmovz.com
 .fapnado.com
+.fapomania.com
 .fapopedia.net
 .fappcelebs.com
 .fappeningbook.com
@@ -9487,8 +9502,10 @@
 .gogo-load.com
 .gogoanime.vc
 .gogoanime.wiki
+.gogoanime3.co
 .gogocdn.net
 .gogole.com
+.gogotaku.info
 .gogotunnel.com
 .gohappy.com.tw
 .gohentai.net
@@ -10607,6 +10624,7 @@
 .homestylerapp.com
 .homestylernews.com
 .hometrack.com.au
+.hominis.media
 .homo.xxx
 .honawalaan.com
 .honestpornreviews.com
@@ -12562,6 +12580,8 @@
 .jr24h.com
 .js.org
 .js.revsci.net
+.jsati.com
+.jsatmobile.com
 .jsbridgestone.com
 .jsdelivr.com
 .jsdelivr.net
@@ -13047,6 +13067,7 @@
 .leaguesharp.info
 .leaguoflegends.com
 .leakedmeat.com
+.leakedzone.com
 .leaksmodels.com
 .leakxxx.com
 .leancloud.com
@@ -13150,6 +13171,7 @@
 .libgen.rs
 .libgen.st
 .liboggirls.net
+.library.lol
 .libraryinformationtechnology.com
 .librarylovefest.com
 .libraryofthumbs.com
@@ -13312,6 +13334,7 @@
 .llwht88.xyz
 .lmm167.shop
 .lmmbtc.com
+.lmsys.org
 .lncn.org
 .lnkd.in
 .lnstagram-help.com
@@ -13888,6 +13911,7 @@
 .maturewomenanal.com
 .maturexxxvideos.cc
 .maven.org
+.max.com
 .maxgo.com
 .maxillofacial-cadcam.com
 .maximumerotica.com
@@ -16019,6 +16043,7 @@
 .nudistvoyeurbeach.com
 .nudity911.com
 .nudography.com
+.nudostar.tv
 .nuespournous.com
 .nuexpo.com
 .nuget.org
@@ -17779,6 +17804,7 @@
 .printspots.com
 .printspots.net
 .prism-break.org
+.prismlauncher.org
 .prismlive.com
 .prisoneralert.com
 .pritunl.com
@@ -18080,6 +18106,7 @@
 .quicktime.net
 .quicktime.tv
 .quiksee.com
+.quiltmc.org
 .quip-cdn.com
 .quip.com
 .quipelements.com
@@ -18340,11 +18367,15 @@
 .redd.it
 .reddit.app.link
 .reddit.com
+.redditblog.com
 .reddithelp.com
+.redditinc.com
 .redditlist.com
 .redditmail.com
 .redditmedia.com
+.redditspace.com
 .redditstatic.com
+.redditstatus.com
 .redfaptube.com
 .redgifs.com
 .redhat.com
@@ -19200,6 +19231,7 @@
 .shattered.io
 .shazam.com
 .shdd.ink
+.sheets.new
 .sheflix.com
 .shegg.com
 .shegods.com
@@ -19474,6 +19506,8 @@
 .skype.net
 .skypeassets.com
 .skypeassets.net
+.skyperfectjsat.space
+.skyperfectv.co.jp
 .skyporn.online
 .skysports.com
 .skysports.fr
@@ -19503,6 +19537,7 @@
 .sleazyneasy.com
 .slheng.com
 .slickvpn.com
+.slides.new
 .slideshare.com
 .slideshare.net
 .slidesharecdn.com
@@ -19812,6 +19847,7 @@
 .spankwire.com
 .sparknotes.com
 .spb.com
+.spcc-sp.com
 .speakerdeck.com
 .spearhead.kr
 .specialtyheadphones.com
@@ -19878,6 +19914,7 @@
 .sprite.org
 .sproutcore.com
 .sproxy.info
+.sptvbroadcast.com
 .spyjinx.com
 .sqlite.org
 .sqlserveronlinux.com
@@ -23052,6 +23089,7 @@
 .whatbrowser.org
 .whatisairwatch.com
 .whatisworkspaceone.com
+.whats.new
 .whatsapp-plus.info
 .whatsapp-plus.me
 .whatsapp-plus.net
@@ -23753,6 +23791,7 @@
 .xtapes.to
 .xtegvk.xyz
 .xteko.com
+.xtracloud.net
 .xtube.com
 .xtubebdsm.com
 .xtubezoo.com
@@ -24877,6 +24916,7 @@ push-apple.com.akadns.net
 qualcomm.sc.omtrdc.net
 self.events.data.microsoft.com
 tesla-cdn.thron.com
+translomatic.foxfortmobile.com
 vmware.tt.omtrdc.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com

@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2024-06-22 02:12:49
+最后更新时间：2024-07-23 02:12:31
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 448  | 
+| HOST | 431  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 77850  | 
+| HOST-SUFFIX | 90353  | 
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8123  | 
-| IP6-CIDR | 3742  | 
+| IP-CIDR | 8107  | 
+| IP6-CIDR | 3755  | 
 | USER-AGENT | 65  | 
-| TOTAL | 90243  | 
+| TOTAL | 102726  | 
 
 
 ## QuantumultX 
@@ -438,13 +438,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
-- https://ruleset.isagood.day/alibaba.conf
-- https://ruleset.isagood.day/alibaba_domain.conf
-- https://ruleset.isagood.day/bilibili.conf
-- https://ruleset.isagood.day/icbc.conf
-- https://ruleset.isagood.day/sina.conf
-- https://ruleset.isagood.day/stream_cn.conf
-- https://ruleset.isagood.day/wechat.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 

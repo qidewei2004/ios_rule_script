@@ -12,18 +12,18 @@ GlobalMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-06-07 02:11:28
+最后更新时间：2024-07-07 02:10:12
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 28  | 
+| DOMAIN | 27  | 
 | DOMAIN-KEYWORD | 25  | 
 | DOMAIN-SUFFIX | 1255  | 
 | IP-CIDR | 924  | 
 | URL-REGEX | 1  | 
 | USER-AGENT | 69  | 
-| TOTAL | 2302  | 
+| TOTAL | 2301  | 
 
 
 ## Shadowrocket 
@@ -93,10 +93,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/GMedia.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTubeMusic.yaml
-- https://ruleset.isagood.day/stream.conf
-- https://ruleset.isagood.day/youtube.conf
-- https://ruleset.isagood.day/youtube_all.conf
-- https://ruleset.isagood.day/youtube_music.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
